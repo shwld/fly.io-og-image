@@ -1,0 +1,4 @@
+app: og-image-sample
+config: []
+files:
+  - src/**
